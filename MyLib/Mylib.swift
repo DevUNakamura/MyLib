@@ -12,4 +12,9 @@ public class MyLib:NSObject{
     public class func start(){
         print("MyLib start..")
     }
+
+    public class func stop(){
+        print("MyLib stop..")
+    }
+
 }
